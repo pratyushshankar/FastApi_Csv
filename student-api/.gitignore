@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+venv/
+.venv/
+env/
+
+# Environment variables — 
+.env
+
+# Database file
+*.db
+
+# OS
+.DS_Store
+
+# Build
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+pk/
